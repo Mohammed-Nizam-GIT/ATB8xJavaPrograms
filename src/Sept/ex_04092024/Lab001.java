@@ -5,6 +5,7 @@ public class Lab001 {
             System.out.println("Hello World002");
             System.out.println("Hello World003");
             System.out.println("Hello World004");
+            System.out.println("Hello World005");
         }
 }
 
